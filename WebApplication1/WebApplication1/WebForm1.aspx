@@ -14,10 +14,7 @@
     
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
     
-        <asp:CheckBox ID="CheckBox2" runat="server" />
-    
     </div>
-        <asp:CheckBox ID="CheckBox1" runat="server" />
     </form>
 </body>
 </html>
