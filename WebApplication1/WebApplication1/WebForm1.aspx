@@ -16,6 +16,8 @@
     
         <asp:CheckBox ID="CheckBox1" runat="server" />
     
+        <asp:RadioButton ID="RadioButton1" runat="server" />
+    
     </div>
     </form>
 </body>
