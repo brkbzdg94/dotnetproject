@@ -19,6 +19,7 @@
         <asp:Button ID="Button2" runat="server" Text="Button" />
     
         <asp:RadioButton ID="RadioButton1" runat="server" />
+        <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
     
     </div>
     </form>
